@@ -29,7 +29,9 @@ document.getElementById("array-ex4").innerHTML = beatles
 
 // Exercise 5
 
-`beatles $[beatles.lenght] elements`
+text("the array has length" + beatles.length)
+document.getElementById("arrayex5").innerHTML = beatles
+// `beatles $[beatles.lenght] elements`
 
 // Exercise 6
 
