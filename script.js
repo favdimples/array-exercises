@@ -24,8 +24,8 @@ document.getElementById("array-ex3").innerHTML = beatles
 
 // Exercise 4 
 
- beatles[10]="5"
- document.getElementById("array-ex4").innerHTML = beatles
+beatles[10]="2"
+document.getElementById("array-ex4").innerHTML = beatles
 
 // Exercise 5
 
