@@ -35,4 +35,5 @@ document.getElementById("arrayex5").innerHTML = beatles
 
 // Exercise 6
 
+
 //blabalabalabal
