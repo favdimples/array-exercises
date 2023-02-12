@@ -13,10 +13,9 @@ document.getElementById("array-ex1").innerHTML = beatles[1]+ " " + beatles[3]
 
 
 // Exercise 2
-// beatles[4]="rachel"
-// document.getElementById("array-ex2").innerHTML = beatles
-var ex2 = document.getElementById("array-ex2")
-ex2.innerHTML = "rachel"
+beatles[4]="rachel"
+
+document.getElementById("array-ex2").innerHTML = beatles
 
 // Exercise 3 
 
