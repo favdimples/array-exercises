@@ -5,7 +5,6 @@ document.getElementById('original').innerHTML = beatles
 
 
 document.getElementById("array-ex1").innerHTML = beatles[1]+ " " + beatles[3]
-
 // var ex1Els = document.getElementById("arrayex1")
 // for (var i = 0; i < ex1Els.length; i++) { 
 //     ex1Els[0].innerHTML = " ";
