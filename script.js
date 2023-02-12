@@ -19,7 +19,7 @@ document.getElementById("array-ex2").innerHTML = beatles
 
 // Exercise 3 
 
-beatles[4]="5"
+beatles[4]="2"
 document.getElementById("array-ex3").innerHTML = beatles
 
 // Exercise 4 
